@@ -29,7 +29,7 @@
     },
     {
         "id":  4,
-        "nombre": "Lalá",
+        "nombre": "Quinta el ombu",
         "tipoComida": "Gourmet",
         "direccion": "Av. Sucre 1978",
         "horarioApertura": "Desde 10 AM",
@@ -38,7 +38,7 @@
     },
     {
         "id" : 5,
-        "nombre": "La farola de San isidro",
+        "nombre": "Seven eleven",
         "tipoComida": "Restaurant",
         "direccion": "Av. centenario 600",
         "horarioApertura": "Desde 1:30 PM",
@@ -48,7 +48,7 @@
 
     {
         "id" : 6,
-        "nombre": "Mc Donalds",
+        "nombre": "Angie's",
         "tipoComida": "Comida rapida",
         "direccion": "Av. centenario 800",
         "horarioApertura": "Abierto 24hs",
@@ -57,7 +57,7 @@
     },
     {
         "id":  7,
-        "nombre": "Lalá",
+        "nombre": "Sotavento Restó",
         "tipoComida": "Gourmet",
         "direccion": "Av. Sucre 1978",
         "horarioApertura": "Desde 10 AM",
@@ -66,7 +66,7 @@
     },
     {
         "id" : 8,
-        "nombre": "La farola de San isidro",
+        "nombre": "Chefeo",
         "tipoComida": "Restaurant",
         "direccion": "Av. centenario 600",
         "horarioApertura": "Desde 1:30 PM",
@@ -76,7 +76,7 @@
 
     {
         "id" : 9,
-        "nombre": "Mc Donalds",
+        "nombre": "Austria Restaurant",
         "tipoComida": "Comida rapida",
         "direccion": "Av. centenario 800",
         "horarioApertura": "Abierto 24hs",
@@ -85,7 +85,7 @@
     },
     {
         "id" : 10,
-        "nombre": "Mc Donalds",
+        "nombre": "Barisidro",
         "tipoComida": "Comida rapida",
         "direccion": "Av. centenario 800",
         "horarioApertura": "Abierto 24hs",
@@ -94,7 +94,7 @@
     },
     {
         "id" : 11,
-        "nombre": "Mc Donalds",
+        "nombre": "Rabieta",
         "tipoComida": "Comida rapida",
         "direccion": "Av. centenario 800",
         "horarioApertura": "Abierto 24hs",
@@ -103,7 +103,7 @@
     },
     {
         "id" : 12,
-        "nombre": "Mc Donalds",
+        "nombre": "El Club de la Milanesa San Isidro",
         "tipoComida": "Comida rapida",
         "direccion": "Av. centenario 800",
         "horarioApertura": "Abierto 24hs",
