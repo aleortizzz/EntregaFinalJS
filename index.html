@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body  scroll-behavior="smooth" class="bg-dark pad ">
+
+    <div class="d-flex p-2 d-flex justify-content-center  gap-3 ">
+        <button type="button" id="btnGourmet" class="btn btn-dark border border-white">Gourmet</button>
+        <button type="button" id="btnRestaurant" class="btn btn-dark border border-white">Restaurant</button>
+        <button type="button" id="btnComidaRapida" class="btn btn-dark border border-white">Comida rapida</button>
+        <button type="button" id="todos" class="btn btn-dark border border-white">Mostrar todo</button>
+        <a href="#secFavoritos">
+            <button type="button" class="btn btn-dark border border-white">Mis favoritos 🧡</button>
+        </a>
+    </div>
+
+
+
+    <div id="listado" class="d-flex p-2 justify-content-center  gap-3 row row-cols-1 row-cols-md-4 row-gap-5">
+    </div>
+
+
+    <div id="filtradoGourmet"
+        class="filtradoGourmet d-flex p-2 justify-content-center  gap-3 row row-cols-1 row-cols-md-4 row-gap-5">
+    </div>
+    <div id="filtradoComidaRapida"
+        class="filtradoComidaRapida d-fle justify-content-center  gap-3 row row-cols-1 row-cols-md-4 row-gap-5">
+    </div>
+    <div id="filtradoRestaurant"
+        class="filtradoRestaurant d-flex p-2 justify-content-center  gap-3 row row-cols-1 row-cols-md-4 row-gap-5">
+    </div>
+    <div id="todos" class="todos"></div>
+
+    <be></br><br></br>
+
+<div id="secFavoritos"></div>
+        <h3 class="text-warning d-flex justify-content-center">- TUS FAVORITOS -</h3>
+
+        <div id="favoritos" class="favoritos"></div>
+     
+
+
+        <script src="./app.js"></script>
+
+</body>
+<style>
+    .pad {
+        margin: 20px;
+        padding:
+            10px;
+    }
+</style>
+
+</html>

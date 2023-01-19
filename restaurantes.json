@@ -1,0 +1,113 @@
+[
+    {
+        "id":  1,
+        "nombre": "Lalá",
+        "tipoComida": "Gourmet",
+        "direccion": "Av. Sucre 1978",
+        "horarioApertura": "Desde 10 AM",
+        "consumicion": "Take away",
+        "img" : "https://images.adsttc.com/media/images/61f3/7169/3e4b/3184/b600/0009/large_jpg/_fi.jpg?1643344228"
+    },
+    {
+        "id" : 2,
+        "nombre": "La farola de San isidro",
+        "tipoComida": "Restaurant",
+        "direccion": "Av. centenario 600",
+        "horarioApertura": "Desde 1:30 PM",
+        "consumicion": "En el local",
+        "img" : "https://media.revistaad.es/photos/60c74aa45ea84b36dca892b7/master/w_1600%2Cc_limit/163346.jpg"
+    },
+
+    {
+        "id" : 3,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    },
+    {
+        "id":  4,
+        "nombre": "Lalá",
+        "tipoComida": "Gourmet",
+        "direccion": "Av. Sucre 1978",
+        "horarioApertura": "Desde 10 AM",
+        "consumicion": "Take away",
+        "img" : "https://images.adsttc.com/media/images/61f3/7169/3e4b/3184/b600/0009/large_jpg/_fi.jpg?1643344228"
+    },
+    {
+        "id" : 5,
+        "nombre": "La farola de San isidro",
+        "tipoComida": "Restaurant",
+        "direccion": "Av. centenario 600",
+        "horarioApertura": "Desde 1:30 PM",
+        "consumicion": "En el local",
+        "img" : "https://media.revistaad.es/photos/60c74aa45ea84b36dca892b7/master/w_1600%2Cc_limit/163346.jpg"
+    },
+
+    {
+        "id" : 6,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    },
+    {
+        "id":  7,
+        "nombre": "Lalá",
+        "tipoComida": "Gourmet",
+        "direccion": "Av. Sucre 1978",
+        "horarioApertura": "Desde 10 AM",
+        "consumicion": "Take away",
+        "img" : "https://images.adsttc.com/media/images/61f3/7169/3e4b/3184/b600/0009/large_jpg/_fi.jpg?1643344228"
+    },
+    {
+        "id" : 8,
+        "nombre": "La farola de San isidro",
+        "tipoComida": "Restaurant",
+        "direccion": "Av. centenario 600",
+        "horarioApertura": "Desde 1:30 PM",
+        "consumicion": "En el local",
+        "img" : "https://media.revistaad.es/photos/60c74aa45ea84b36dca892b7/master/w_1600%2Cc_limit/163346.jpg"
+    },
+
+    {
+        "id" : 9,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    },
+    {
+        "id" : 10,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    },
+    {
+        "id" : 11,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    },
+    {
+        "id" : 12,
+        "nombre": "Mc Donalds",
+        "tipoComida": "Comida rapida",
+        "direccion": "Av. centenario 800",
+        "horarioApertura": "Abierto 24hs",
+        "consumicion": "En el local",
+        "img" : "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f7c19a30b4b4fafbfe171495a47907c?width=1000"
+    }
+]
